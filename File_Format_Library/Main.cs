@@ -454,7 +454,7 @@ namespace FirstPlugin
             Formats.Add(typeof(BNR));
             Formats.Add(typeof(PKG));
             Formats.Add(typeof(MTXT));
-
+            Formats.Add(typeof(ASB));
 
             //Formats.Add(typeof(XLINK_FILE));
 
